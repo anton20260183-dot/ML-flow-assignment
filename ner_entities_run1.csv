@@ -1,0 +1,54 @@
+paragraph,entity,entity_type,confidence
+1,Mary Kom,PER,0.98657495
+1,Manipur,LOC,0.9980172
+1,India,LOC,0.9997594
+1,Sports Authority of India,ORG,0.9991847
+1,New Delhi,LOC,0.9994507
+2,Tim Berners,PER,0.9994717
+2,Lee,PER,0.8172626
+2,CERN,ORG,0.99499387
+2,Geneva,LOC,0.99934584
+2,CERN,ORG,0.993881
+2,Switzerland,LOC,0.999759
+3,In,PER,0.99930024
+3,##dra Nooy,PER,0.9938852
+3,PepsiCo,ORG,0.9948069
+3,New York,LOC,0.9991768
+3,United States,LOC,0.99945116
+4,World Health Organization,ORG,0.9989748
+4,Geneva,LOC,0.9995254
+4,Ted,PER,0.9994399
+4,##ros Adhanom Ghebreyesus,PER,0.9465351
+4,Japan,LOC,0.9998234
+4,Canada,LOC,0.99980825
+4,Australia,LOC,0.99981266
+5,Sa,PER,0.9996456
+5,##chin Tendulkar,PER,0.9318744
+5,India,LOC,0.9998172
+5,Mumbai,LOC,0.9755155
+5,India,LOC,0.9993217
+5,Mumbai,LOC,0.9995036
+5,Delhi,LOC,0.9993876
+6,Amazon Web Services,ORG,0.9993086
+6,Austin,LOC,0.99926025
+6,Andy Jassy,PER,0.9990711
+6,Texas,LOC,0.9996105
+7,Malala Yousafzai,PER,0.94871265
+7,New York,LOC,0.99944335
+7,Malala Fund,ORG,0.9985927
+8,Toyota,ORG,0.99889344
+8,Tokyo,LOC,0.9993766
+8,A,PER,0.9996269
+8,##kio Toyoda,PER,0.9273385
+8,Japan,LOC,0.9996971
+9,Leonardo da Vinci,PER,0.99567
+9,Florence,LOC,0.9996636
+9,Italy,LOC,0.9996828
+10,International Monetary Fund,ORG,0.9993211
+10,"Washington, D. C.",LOC,0.9880259
+10,Germany,LOC,0.9996618
+10,France,LOC,0.9996766
+10,Brazil,LOC,0.9997235
+10,Kris,PER,0.9994752
+10,##tal,PER,0.99241555
+10,##ina Georgie,PER,0.79062665

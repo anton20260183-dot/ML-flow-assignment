@@ -1,0 +1,21 @@
+sentence,true_label,predicted_label,confidence
+The customer service representative solved my issue quickly.,POSITIVE,NEGATIVE,0.5153072476387024
+The camera takes sharp and beautiful photos.,POSITIVE,POSITIVE,0.9998331069946289
+I really enjoyed the online course.,POSITIVE,POSITIVE,0.999849796295166
+The delivery arrived earlier than expected.,POSITIVE,NEGATIVE,0.9824801683425903
+The new design looks modern and attractive.,POSITIVE,POSITIVE,0.999854326248169
+The staff made us feel very welcome.,POSITIVE,POSITIVE,0.9998607635498047
+This restaurant has some of the best food in town.,POSITIVE,POSITIVE,0.9998422861099243
+The instructions were simple and easy to understand.,POSITIVE,POSITIVE,0.998016357421875
+The product exceeded everything I expected.,POSITIVE,POSITIVE,0.9967516660690308
+I am very happy with the final result.,POSITIVE,POSITIVE,0.9998776912689209
+The customer service team ignored my complaint.,NEGATIVE,NEGATIVE,0.9923191666603088
+The camera produces blurry and disappointing photos.,NEGATIVE,NEGATIVE,0.9998094439506531
+I found the online course boring and unhelpful.,NEGATIVE,NEGATIVE,0.9998125433921814
+The delivery arrived several days late.,NEGATIVE,NEGATIVE,0.992731511592865
+The new design looks outdated and unattractive.,NEGATIVE,NEGATIVE,0.9997938275337219
+The staff were unfriendly and impatient.,NEGATIVE,NEGATIVE,0.9994220733642578
+The food at this restaurant was unpleasant.,NEGATIVE,NEGATIVE,0.9996247291564941
+The instructions were confusing and incomplete.,NEGATIVE,NEGATIVE,0.9996719360351562
+The product failed to meet my expectations.,NEGATIVE,NEGATIVE,0.9997819066047668
+I am very disappointed with the final result.,NEGATIVE,NEGATIVE,0.9997779726982117

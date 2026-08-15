@@ -1,0 +1,43 @@
+paragraph,entity,entity_type,confidence
+1,Marie Curie,PER,0.9738367
+1,Paris,LOC,0.9996105
+1,Pierre Curie,PER,0.97466075
+1,University of Paris,ORG,0.9963506
+2,Sa,PER,0.9997416
+2,##tya Nadella,PER,0.83433855
+2,Microsoft,ORG,0.99736077
+2,London,LOC,0.9995964
+2,Microsoft,ORG,0.99863464
+2,Europe,LOC,0.999711
+3,Nelson Mandela,PER,0.9992358
+3,London,LOC,0.9997234
+3,African National Congress,ORG,0.99942875
+3,South Africa,LOC,0.99916315
+4,International,ORG,0.9032777
+4,Lausanne,LOC,0.99893457
+4,Switzerland,LOC,0.9997036
+4,Thomas Bach,PER,0.99972856
+5,Walt Disney,PER,0.99076223
+5,Disney Brothers Studio,ORG,0.9961815
+5,California,LOC,0.9996512
+5,The Walt Disney Company,ORG,0.99798083
+6,Serena Williams,PER,0.99939036
+6,Melbourne,LOC,0.99946576
+6,United States,LOC,0.99952626
+7,National Aeronautics and Space Administration,ORG,0.99920833
+7,Florida,LOC,0.9996346
+7,NASA,ORG,0.9989403
+7,Houston,LOC,0.9991726
+8,Ratan Tata,PER,0.99522734
+8,Tata Group,ORG,0.99887514
+8,Mumbai,LOC,0.99942833
+8,India,LOC,0.9991366
+9,Adele,PER,0.9759765
+9,Sydney,LOC,0.9996803
+9,Australia,LOC,0.99976116
+9,Melbourne,LOC,0.9994836
+9,Brisbane,LOC,0.9992854
+10,United Nations Children ' s Fund,ORG,0.99933857
+10,Nairobi,LOC,0.99967825
+10,UNICEF,ORG,0.99896675
+10,Kenya,LOC,0.99980074

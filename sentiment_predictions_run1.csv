@@ -1,0 +1,21 @@
+sentence,true_label,predicted_label,confidence
+The new laptop works incredibly well.,POSITIVE,POSITIVE,0.9998414516448975
+I was impressed by how quickly the package arrived.,POSITIVE,POSITIVE,0.9997182488441467
+The staff were friendly and helpful.,POSITIVE,POSITIVE,0.9998490810394287
+The hotel provided excellent service throughout my stay.,POSITIVE,POSITIVE,0.9997884631156921
+I am pleased with the quality of this product.,POSITIVE,POSITIVE,0.9998683929443359
+"The presentation was clear, informative, and engaging.",POSITIVE,POSITIVE,0.9998730421066284
+The app makes managing my tasks much easier.,POSITIVE,POSITIVE,0.9772436618804932
+The meal was delicious and beautifully prepared.,POSITIVE,POSITIVE,0.9998856782913208
+The training session was useful and well organized.,POSITIVE,POSITIVE,0.9998507499694824
+I had a pleasant experience with the company.,POSITIVE,POSITIVE,0.9998751878738403
+The laptop stopped working after only a few days.,NEGATIVE,NEGATIVE,0.9990857839584351
+The package arrived late and damaged.,NEGATIVE,NEGATIVE,0.9995883107185364
+The staff were rude and unhelpful.,NEGATIVE,NEGATIVE,0.9990466237068176
+The hotel service was disappointing.,NEGATIVE,NEGATIVE,0.9997358918190002
+The product feels cheap and poorly made.,NEGATIVE,NEGATIVE,0.9998225569725037
+The presentation was confusing and difficult to follow.,NEGATIVE,NEGATIVE,0.9997342228889465
+The app is slow and frustrating to use.,NEGATIVE,NEGATIVE,0.9996960163116455
+The meal was cold and tasteless.,NEGATIVE,NEGATIVE,0.9987093210220337
+The training session was poorly organized and unhelpful.,NEGATIVE,NEGATIVE,0.9998025298118591
+I had a terrible experience with the company.,NEGATIVE,NEGATIVE,0.9992218017578125

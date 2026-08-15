@@ -1,0 +1,16 @@
+
+Task 3 - Text Generation Run 1 Observations
+
+In this run, GPT-2 generated responses for five different prompts
+using relatively low temperature values.
+
+The lower temperature settings made the generated text more
+consistent and focused. The outputs generally followed the context
+provided by each prompt with less variation.
+
+The max_length values determined how long the generated responses
+could become. Increasing max_length allowed the model to continue
+the generated text for a longer sequence.
+
+Overall, the first run demonstrated how conservative temperature
+settings can produce more stable and predictable text generation.

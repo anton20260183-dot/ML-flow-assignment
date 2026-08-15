@@ -1,0 +1,16 @@
+
+Task 3 - Text Generation Run 2 Observations
+
+For the second run, GPT-2 was tested with higher temperature
+settings between 1.0 and 1.2 across five different prompts.
+
+The increased temperature allowed the model to produce more
+diverse and less predictable responses. Some outputs showed
+greater variation in wording and ideas compared with the first run.
+
+The different max_length values also affected how much text the
+model was able to generate for each prompt.
+
+Overall, this run demonstrated that increasing the temperature
+can encourage more varied text generation, although very high
+values may sometimes reduce the consistency of the output.
